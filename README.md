@@ -6,4 +6,4 @@ Proper document hierarchy
 Technologies Used:
 HTML5
 vs code
-web browser
+web browser: Chrome,microsoft Edge
